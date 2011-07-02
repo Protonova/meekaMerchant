@@ -1,0 +1,7 @@
+## Interface: 40200
+## Title: meekaMerchant
+## Version: r3
+## Author: Protonova of Rexxar (US) based off of Nightcracker's mod.
+## Notes: Auto repairs and auto vendors grays at merchants.
+
+meekaMerchant.xml
